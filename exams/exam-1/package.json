@@ -23,7 +23,7 @@
     "fetch-cookie": "^0.8.0",
     "got": "^10.7.0",
     "jsdom": "^16.2.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "serve-favicon": "^2.5.0"
   },
   "devDependencies": {
